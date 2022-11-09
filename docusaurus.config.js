@@ -10,7 +10,7 @@ const config = {
   tagline: "Dinosaurs are cool",
   url: "https://dewald-els.github.io",
   baseUrl: "/docusrawrus/",
-  onBrokenLinks: "throw",
+  onBrokenLinks: "ignore",
   onBrokenMarkdownLinks: "ignore",
   favicon: "img/favicon.ico",
 
